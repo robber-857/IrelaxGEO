@@ -1,0 +1,15 @@
+# Local source evidence and authenticated environment notes
+docs/evidence/
+docs/local/
+backups/
+.env
+.env.*
+!.env.example
+*.sql
+*.sql.gz
+*.zip
+*.log
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
